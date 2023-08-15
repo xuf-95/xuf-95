@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @Sherlock-Xpf
 
-- 🌱 I’m currently learning **DCMM, Bigdata and Flink**
+- 🌱 I’m currently learning **Bigdata a Flink**
 
 - 👀 I’m interested in Computer Science, Bigdata and NLP
 

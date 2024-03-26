@@ -6,5 +6,5 @@ I'm focused on **Bigdata,  Flink and Data lake**
   
 I’m looking for help with some open source project to promote my ability to codingng
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 

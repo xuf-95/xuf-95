@@ -16,29 +16,17 @@ Let's rock!
        <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
      </picture>
    
-     <!-- for beauty -->
-     <div>&nbsp;</div>
-     
-   </div>
-
-   <div align="left">
-      <!-- Stats Card -->
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuf-95&show_icons=true&theme=radical)
-   </div>
-
-   <div align="right">
-     <!-- Award List -->
-     ![trophy](https://github-profile-trophy.vercel.app/?username=xuf-95&row=1&column=5&theme=juicyfresh&no-frame=true&no-bg=true)
-   </div>
+   <!-- for beauty -->
+   <div>&nbsp;</div>
 
 
 </div>
 
+<!-- Stats Card -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuf-95&show_icons=true&theme=radical)
 
-
-
-
-
+<!-- Award List -->
+![trophy](https://github-profile-trophy.vercel.app/?username=xuf-95&row=1&column=5&theme=juicyfresh&no-frame=true&no-bg=true)
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>

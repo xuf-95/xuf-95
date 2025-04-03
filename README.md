@@ -18,8 +18,6 @@ Let's rock!
   <!-- for beauty -->
   <div>&nbsp;</div>
 </div>
-<!-- Stats Words -->
-![Metrics](github-metrics.svg)
 
 <!-- Stats Card -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuf-95&show_icons=true&theme=radical)

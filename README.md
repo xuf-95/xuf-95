@@ -4,8 +4,10 @@ I'm focused on **Bigdata,  Flink and Data lake**
  - Reach me at [twitter.com/xuf](https://twitter.com/home) or [sherlock.xpf@gmail.com](sherlock.xpf@gmail.com)
 
 I’m looking for help with some open source project to promote my ability to codingng
+
 Let's rock!
-<div align="right">
+
+<div>
   <!-- Knock Code Pictures -->
   <picture >
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
@@ -15,7 +17,7 @@ Let's rock!
 
   <!-- for beauty -->
   <div>&nbsp;</div>
-
+</div>
 <!-- Stats Words -->
 ![Metrics](github-metrics.svg)
 

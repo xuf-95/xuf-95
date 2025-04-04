@@ -1,3 +1,18 @@
+<p>
+  <h1 align="center"><b>Hi, I'm Jen!</h1>
+</p>
+
+<p align="center">
+<a href="https://xufei.site"><img src="https://img.shields.io/badge/jenlooper.com-000000" alt="Blog" /></a>&nbsp;
+<a href="[https://twitter.com/xuf95](https://bsky.app/profile/jenlooper.com)"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff" alt="Bluesky" /></a>&nbsp;
+<a href="https://twitter.com/xuf95"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/xuf95/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<br/>
+
+## I'm a 3x Founder:
+
+<a href="https://beanpotstudio.com">Founder and CEO - Beanpot Studio</a>
+
 I'm focused on **Bigdata,  Flink and Data lake**
  - To read more about me: [xufei.site](https://www.xufei.site/)
  - To know what I'm doing: [wiki digial garden](http://xufei.biz/)

@@ -22,12 +22,12 @@ Let's rock!
 
 </div>
 
-<!-- Stats Card -->
+<!-- Stats Card 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuf-95&show_icons=true&theme=radical)
-
-<!-- Award List -->
+-->
+<!-- Award List 
 ![trophy](https://github-profile-trophy.vercel.app/?username=xuf-95&row=1&column=5&theme=juicyfresh&no-frame=true&no-bg=true)
-
+-->
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
   <tr>

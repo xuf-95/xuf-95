@@ -11,8 +11,6 @@
 
 ## I'm a Data Engineer:
 
-<a href="https://beanpotstudio.com">Founder and CEO - Beanpot Studio</a>
-
 I'm focused on **Bigdata,  Flink and Data lake**
  - To read more about me: [xufei.site](https://www.xufei.site/)
  - To know what I'm doing: [wiki digial garden](http://xufei.biz/)

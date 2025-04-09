@@ -1,17 +1,5 @@
-<p>
-  <h1 align="center"><b>Hi, I'm XuFei!</h1>
-</p>
 
-<p align="center">
-<a href="https://xufei.site"><img src="https://img.shields.io/badge/xufei.site-000000" alt="Blog" /></a>&nbsp;
-<a href="[https://twitter.com/xuf95](https://bsky.app/profile/xufei.site)"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff" alt="Bluesky" /></a>&nbsp;
-<a href="https://twitter.com/xuf95"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/xuf95/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<br/>
-
-## I'm a Data Engineer:
-
-I'm focused on **Bigdata,  Flink and Data lake**
+I'm **xufei**, a **Data Engineer** focused on **Bigdata,  Flink and Data lake**
  - To read more about me: [xufei.site](https://www.xufei.site/)
  - To know what I'm doing: [wiki digial garden](http://xufei.biz/)
  - Reach me at [twitter.com/xuf](https://twitter.com/home) or [sherlock.xpf@gmail.com](sherlock.xpf@gmail.com)

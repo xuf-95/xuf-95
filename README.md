@@ -17,7 +17,7 @@ Let's rock!
 <!-- Award List 
 ![trophy](https://github-profile-trophy.vercel.app/?username=xuf-95&row=1&column=5&theme=juicyfresh&no-frame=true&no-bg=true)
 -->
-<!-- GitHub Activity Graph GitHub 活动图 -->
+<!-- GitHub Activity Graph GitHub 活动图 
 <table>
   <tr>
     <td>
@@ -28,3 +28,4 @@ Let's rock!
       </picture>
   </tr>
 </table>
+-->

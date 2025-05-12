@@ -8,18 +8,6 @@ I’m looking for help with some open source project to promote my ability to co
 
 Let's rock!
 
-<div>
-   <div align="center">
-     <!-- Knock Code Pictures -->
-     <picture >
-       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-       <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-       <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-     </picture>
-   
-   <!-- for beauty -->
-   <div>&nbsp;</div>
-
 
 </div>
 
